@@ -1,0 +1,6 @@
+Personal Brand Color Palette
+HEX Codes:
+
+-Orchid:#270959
+-Violent Violet:#ca6fcf
+-White Beige:#f4ede2
