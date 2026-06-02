@@ -16,6 +16,7 @@ I am an incoming 2nd-year BS Finance student. I'm focused on staying organized, 
 
 ## Social Media Graphics
 ![Social Media Graphics Profile Banner](visuals/Social%20Media%20Graphics_Profile%20Banner.png)
+![Social Media Graphics Square Promo](visuals/Social%20Media%20Graphics_Square%20Promo.png)
 
 > **Reflection:** The social media graphics were designed using the same colors, typography, and visual style from my branding kit to maintain consistency across different layouts. I also focused on keeping the elements evenly spaced and readable so the designs would look visually clean without feeling overcrowded.
 
