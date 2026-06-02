@@ -22,7 +22,7 @@ I am an incoming 2nd-year BS Finance student. I'm focused on staying organized, 
 ---
 
 ## Infographics & Project Documentation
-![Infographics on Project Documentation](docs/Infographic%20on%20Project%20Documentation.png)
+![Infographics on Project Documentation](docs/Infographic-on-Project-Documentation.png)
 
 > **Reflection:** For the infographic, I used a structured vertical layout with section labels, icons, charts, and spacing to make the information easier to follow. The consistent color palette and visual hierarchy helped organize the content clearly while keeping the design visually cohesive.
 
